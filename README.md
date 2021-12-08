@@ -5,6 +5,9 @@ I use Seoul’s bike sharing demand dataset to understand how weather conditions
 
 # Packages Used
 Pandas
+
 Numpy
+
 Matplotlib
+
 Scikit-Learn
