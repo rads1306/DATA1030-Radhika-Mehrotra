@@ -5,10 +5,13 @@ I use Seoul’s bike sharing demand dataset to understand how weather conditions
 
 # Packages Used
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import TimeSeriesSplit
+
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import OrdinalEncoder
